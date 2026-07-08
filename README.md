@@ -1,5 +1,3 @@
-<img width="1876" height="855" alt="image" src="https://github.com/user-attachments/assets/f22a08db-366b-4173-a2a6-51ea6e990a45" /># 🛒 Amazon Clone
-
 A responsive Amazon homepage clone built using **HTML** and **CSS**. This project recreates the look and feel of Amazon's landing page for learning and frontend practice purposes.
 
 ## 🌐 Live Demo
