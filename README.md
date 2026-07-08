@@ -32,7 +32,7 @@ This project is a **frontend UI clone only**.
 
 If buttons, links, or search do not work, that is expected because this project focuses only on recreating the user interface using HTML and CSS.
 
-## 📷 Preview
+## 🖼️ Project Screenshot
 <img width="1890" height="850" alt="image" src="https://github.com/user-attachments/assets/92869b11-2421-4caa-a1b8-9851441d5e2e" />
 <img width="1870" height="865" alt="image" src="https://github.com/user-attachments/assets/035ad0ed-9031-4a37-afb8-386fdfc76ccc" />
 
