@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone
+<img width="1876" height="855" alt="image" src="https://github.com/user-attachments/assets/f22a08db-366b-4173-a2a6-51ea6e990a45" /># 🛒 Amazon Clone
 
 A responsive Amazon homepage clone built using **HTML** and **CSS**. This project recreates the look and feel of Amazon's landing page for learning and frontend practice purposes.
 
@@ -35,9 +35,9 @@ This project is a **frontend UI clone only**.
 If buttons, links, or search do not work, that is expected because this project focuses only on recreating the user interface using HTML and CSS.
 
 ## 📷 Preview
-<img width="322" height="142" alt="image" src="https://github.com/user-attachments/assets/a74a2cba-0c71-4ce7-886d-149f2cc11a47" />
+<img width="1890" height="850" alt="image" src="https://github.com/user-attachments/assets/92869b11-2421-4caa-a1b8-9851441d5e2e" />
+<img width="1870" height="865" alt="image" src="https://github.com/user-attachments/assets/035ad0ed-9031-4a37-afb8-386fdfc76ccc" />
 
-_Add a screenshot here if you'd like._
 
 ## 🚀 Run Locally
 
